@@ -1,2 +1,2 @@
-# install-opencv-for-raspberrrypi
+# install-opencv-for-raspberrypi
 Installation guide for opencv in raspberrrypi
